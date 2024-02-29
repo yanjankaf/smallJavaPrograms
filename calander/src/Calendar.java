@@ -2,7 +2,7 @@ import java.time.DayOfWeek;
 import java.time.LocalDate;
 import java.time.Month;
 
-public class Calander {
+public class Calendar {
     public static void main(String[] args) {
         // I don't care about user input, so i will just print the calander of the current month
         LocalDate d = LocalDate.now();
